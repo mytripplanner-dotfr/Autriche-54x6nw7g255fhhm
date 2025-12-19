@@ -1,0 +1,182 @@
+{
+  "pays": "Autriche",
+  "drapeau": "🇦🇹",
+  "symbole": "🎼",
+  "titre": "Vienne Impériale : Un Voyage Symphonique",
+  "budget_total": "980€/pers",
+  "duree": "4 jours",
+  "temps_vol": "4h depuis Gaud, France avec escale",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas Impériaux",
+      "legende": "Après votre arrivée à Vienne, prenez le temps de vous installer et de vous imprégner de l'atmosphère unique de la capitale autrichienne. Une balade légère dans le centre historique vous permettra de découvrir les premières merveilles architecturales et de sentir le pouls de cette ville chargée d'histoire. Laissez-vous charmer par l'élégance des rues et des places.",
+      "lieu": "Vienne",
+      "activites": [
+        "🛬 <strong>Arrivée à Vienne</strong>: Atterrissez à l'aéroport international de Vienne (VIE) et rejoignez votre hôtel au cœur de la ville. Le \"City Airport Train\" (CAT) est une option rapide et directe pour le centre.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Déposez vos bagages dans votre hôtel 3 étoiles et prenez un moment pour vous rafraîchir. Profitez de l'emplacement central pour faciliter vos déplacements.",
+        "🚶‍♂️ <strong>Balade autour de Stephansplatz</strong>: Flânez autour de la majestueuse Cathédrale Saint-Étienne et explorez les rues commerçantes élégantes comme le Graben et le Kohlmarkt. Admirez les façades baroques et l'ambiance viennoise."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transport depuis l'aéroport",
+          "texte": "Le CAT (City Airport Train) relie l'aéroport à la station Wien Mitte en 16 minutes. Alternativement, des trains S-Bahn ou des bus sont disponibles et souvent plus économiques."
+        },
+        {
+          "symbole": "💡",
+          "titre": "Première soirée",
+          "texte": "Pour votre première soirée, optez pour un \"Heuriger\" (taverne à vin traditionnelle) pour goûter aux vins locaux et à la cuisine autrichienne typique dans une ambiance conviviale."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Au Cœur de l'Empire des Habsbourg",
+      "legende": "Plongez au cœur de l'histoire impériale autrichienne en explorant la Hofburg, l'ancienne résidence des Habsbourg. De la splendeur des appartements impériaux aux traditions équestres, cette journée vous transportera à l'époque des empereurs et impératrices. Terminez par une vue imprenable sur la ville depuis la Cathédrale Saint-Étienne.",
+      "lieu": "Vienne",
+      "activites": [
+        "👑 <strong>Visite du Palais de la Hofburg</strong>: Explorez les appartements impériaux, le musée Sisi et la collection d'argenterie. Ce complexe immense fut le centre du pouvoir des Habsbourg pendant des siècles.",
+        "🐎 <strong>École Espagnole d'Équitation</strong>: Assistez à l'entraînement matinal des célèbres Lipizzans ou faites une visite guidée des écuries. C'est une tradition équestre unique au monde, inscrite au patrimoine de l'UNESCO.",
+        "⛪ <strong>Ascension de la Cathédrale Saint-Étienne</strong>: Montez à la tour sud de la cathédrale pour une vue panoramique spectaculaire sur Vienne. L'architecture gothique de l'édifice est tout aussi impressionnante de l'intérieur."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🎟️",
+          "titre": "Billets combinés",
+          "texte": "Envisagez le \"Sisi Ticket\" pour un accès combiné à la Hofburg, au Château de Schönbrunn et au Musée du Meuble Impérial, souvent plus avantageux."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Pause déjeuner",
+          "texte": "De nombreux cafés et restaurants se trouvent autour de la Hofburg. Goûtez un \"Wiener Schnitzel\" authentique dans un restaurant traditionnel viennois."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌳",
+      "titre": "Grandeur Baroque et Saveurs Locales",
+      "legende": "Cette journée vous mènera du faste baroque du Château de Schönbrunn, résidence d'été impériale, à l'effervescence colorée du Naschmarkt, le marché le plus célèbre de Vienne. Terminez votre journée par une touche de divertissement et une vue imprenable sur la ville depuis la Grande Roue du Prater. Un mélange parfait d'histoire, de culture et de loisirs.",
+      "lieu": "Vienne",
+      "activites": [
+        "🏰 <strong>Château de Schönbrunn</strong>: Visitez la somptueuse résidence d'été des Habsbourg, ses jardins baroques, la Gloriette et le zoo. Prévoyez une demi-journée pour explorer ce site classé au patrimoine mondial de l'UNESCO.",
+        "🍎 <strong>Exploration du Naschmarkt</strong>: Déjeunez et flânez dans le marché le plus grand et le plus populaire de Vienne. Vous y trouverez des spécialités locales et internationales, des épices exotiques et une ambiance vibrante.",
+        "🎡 <strong>Le Prater et sa Grande Roue</strong>: Terminez la journée au Prater, un parc d'attractions historique. Faites un tour sur la \"Riesenrad\", la Grande Roue, pour admirer Vienne illuminée au coucher du soleil."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚇",
+          "titre": "Accès à Schönbrunn",
+          "texte": "Le château est facilement accessible via la ligne de métro U4 (station Schönbrunn). Les transports en commun viennois sont très efficaces."
+        },
+        {
+          "symbole": "☕",
+          "titre": "Pause gourmande",
+          "texte": "Ne quittez pas Vienne sans avoir goûté une part de \"Sachertorte\" ou d'\"Apfelstrudel\" dans un café traditionnel, comme le Café Central ou le Café Sacher."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🖼️",
+      "titre": "Art, Café et Départ",
+      "legende": "Pour votre dernière journée, plongez dans l'art autrichien au Palais du Belvédère, abritant le célèbre \"Baiser\" de Klimt. Profitez d'un dernier café viennois pour savourer l'atmosphère unique de la ville avant de vous diriger vers l'aéroport. Une conclusion artistique et gourmande à votre séjour viennois.",
+      "lieu": "Vienne",
+      "activites": [
+        "🎨 <strong>Palais du Belvédère</strong>: Visitez ce magnifique palais baroque qui abrite une impressionnante collection d'art autrichien, dont le chef-d'œuvre de Gustav Klimt, \"Le Baiser\". Les jardins sont également splendides.",
+        "☕ <strong>Expérience Café Viennois</strong>: Prenez le temps de savourer un dernier café dans un des célèbres cafés viennois. C'est une institution culturelle, parfaite pour observer la vie locale et se détendre.",
+        "✈️ <strong>Départ de Vienne</strong>: Selon l'heure de votre vol, profitez d'un dernier moment pour acheter des souvenirs ou revisiter un lieu coup de cœur avant de rejoindre l'aéroport."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🛍️",
+          "titre": "Souvenirs",
+          "texte": "Pensez aux chocolats \"Mozartkugel\", à la porcelaine d'Augarten ou à des produits de la marque Sacher pour des souvenirs gourmands ou élégants."
+        },
+        {
+          "symbole": "🧳",
+          "titre": "Consignes à bagages",
+          "texte": "Si votre vol est tardif, de nombreuses gares et l'aéroport proposent des consignes à bagages pour profiter pleinement de votre dernière journée sans encombre."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "250€/pers (Vol A/R Marseille-Vienne, classe économique)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "70€/pers (Vienna City Card 72h + tickets additionnels, transferts aéroport inclus)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "200€/pers (4 jours x 50€/jour, incluant petit-déjeuner, déjeuner et dîner)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "330€/pers (3 nuits en hôtel 3 étoiles, base double)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "130€/pers (Entrées Schönbrunn, Hofburg, Belvédère, Grande Roue, etc.)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois d'avril à juin et de septembre à octobre.",
+      "symbole": "🍁"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La population autrichienne est d'environ 9 millions d'habitants, dont près de 2 millions vivent à Vienne. Le pays est réputé pour sa qualité de vie élevée.",
+      "symbole": "ℹ️"
+    },
+    {
+      "titre": "La langue officielle est l'allemand, mais l'anglais est largement parlé dans les zones touristiques. La monnaie est l'Euro (€).",
+      "symbole": "🗣️"
+    },
+    {
+      "titre": "L'Autriche est le pays d'origine de nombreuses inventions, comme la machine à coudre, la boule à neige et le Pez. C'est aussi le berceau de la psychanalyse avec Sigmund Freud.",
+      "symbole": "💡"
+    },
+    {
+      "titre": "La culture des cafés viennois est inscrite au patrimoine culturel immatériel de l'UNESCO. Prenez le temps de vous y attarder pour une véritable immersion locale.",
+      "symbole": "☕"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations touristiques officielles sur Vienne",
+      "titre": "Wien Tourismus",
+      "url": "https://www.wien.info/fr",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Transports en commun à Vienne",
+      "titre": "Wiener Linien",
+      "url": "https://www.wienerlinien.at/web/wl-fr",
+      "symbole": "🚇"
+    },
+    {
+      "legende": "Prévisions météo pour Vienne",
+      "titre": "Météo Autriche",
+      "url": "https://www.zamg.ac.at/cms/de/wetter/wetter-oesterreich",
+      "symbole": "🌤️"
+    }
+  ]
+}
